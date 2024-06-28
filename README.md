@@ -16,7 +16,7 @@ This project is inspired by [worst volume ui](https://uxdesign.cc/the-worst-volu
 
 3. Then, Start this project. 
 
-4. Use the W, A, S, D keys to move and the mouse to control the direction. Press the space key to capture cubes and release it to let them fall.
+4. Use the W, A, S, D keys to move and the mouse to control the direction. Press the space key to capture cubes and release it to let them fall. (Check the video below for gameplay)
 
     [![play video](https://img.youtube.com/vi/IHoqTG5jvaY/0.jpg)](https://www.youtube.com/watch?v=IHoqTG5jvaY)
 
